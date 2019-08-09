@@ -43,10 +43,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
   - [x] mongoose
   - [x] nodemon (npm run dev)
   
-  
-
-      $ npm install -g yarn
-
 ---
 
 ## Install
