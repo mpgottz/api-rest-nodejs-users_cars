@@ -1,11 +1,11 @@
-# Project Title
+# Api rest nodejs
 
-A nice project with a nice description
+CRUD user and cars nodejs
 
 ---
 ## Requirements
 
-For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
+For development, you will only need Node.js and a node global package, installed in your environement.
 
 ### Node
 - #### Node installation on Windows
@@ -37,6 +37,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ###
 ### Dependency
+  - [x] BD: mongoDB
   - [x] body-parser
   - [x] morgan
   - [x] express
