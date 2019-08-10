@@ -1,0 +1,23 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "app json for pipeline",
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "api-rest-nodejs-users_cars",
+  "scripts": {
+    "postdeploy": "src/app.js"
+  },
+  "stack": "heroku-18"
+}
